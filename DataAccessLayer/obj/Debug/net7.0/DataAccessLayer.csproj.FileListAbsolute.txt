@@ -1,0 +1,17 @@
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\alper\source\repos\Rezerve\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll

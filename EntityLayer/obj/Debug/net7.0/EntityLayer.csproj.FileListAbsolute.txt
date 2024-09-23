@@ -10,3 +10,5 @@ C:\Users\alper\source\repos\Rezerve\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
 C:\Users\alper\source\repos\Rezerve\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
 C:\Users\alper\source\repos\Rezerve\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
 C:\Users\alper\source\repos\Rezerve\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
+C:\Users\alper\source\repos\Rezerve\EntityLayer\bin\Debug\net7.0\EntityLayer.runtimeconfig.json
+C:\Users\alper\source\repos\Rezerve\EntityLayer\obj\Debug\net7.0\EntityLayer.genruntimeconfig.cache
