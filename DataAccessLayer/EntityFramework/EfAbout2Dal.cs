@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccessLayer.Abstract
+namespace DataAccessLayer.EntityFramework
 {
-    internal interface Feature2Dal
+    internal class EfAbout2Dal
     {
     }
 }
