@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstract
 {
-    public interface Feature2Dal : lGenericDal<Feature2>
+    public interface lFeature2Dal : lGenericDal<Feature2>
     {
     }
 }

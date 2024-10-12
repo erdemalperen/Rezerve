@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstract
 {
-    internal interface lAbout2Dalcs:lGenericDal<About2>
+    internal interface lAbout2Dal:lGenericDal<About2>
     {
     }
 }
